@@ -7,9 +7,13 @@ permalink: /essay-01.html
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
 # History 320 Essay
+
+{% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %} 
+This graph shows a very good demonstration of how often wartime was mentionded during State of the Union Addresses from 1900-2000.
 Baseball is a sport that has been played for generations. It is often considered 'America's Pastime.' There have been many great baseball players throughout history.
 *Many people around the world also play baseball.* **One of the ways that different countries around the world can showcase their skills is during the Wrold Baseball Classic.** [MLB Homepage](https://www.mlb.com/). 
 This is a list of the best Major League baseball players today
+
 -Mike Trout
 -Juan Soto
 -Joey Votto
