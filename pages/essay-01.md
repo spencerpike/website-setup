@@ -7,7 +7,7 @@ permalink: /essay-01.html
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
 # History 320 Essay
-
+Baseball is a sport that has been played for generations. It is often considered 'America's Pastime.' There have been many great baseball players throughout history.
 ## Introduction
 
 Here's some sample text, written in Markdown.
