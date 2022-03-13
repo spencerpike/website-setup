@@ -6,11 +6,11 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
-# History 320 Essay
+# How Wartime Changed America's Political Landscape
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %} 
 This graph shows a very good demonstration of how often wartime was mentionded during State of the Union Addresses from 1900-2000.
-Baseball is a sport that has been played for generations. It is often considered 'America's Pastime.' There have been many great baseball players throughout history.
+As you can see, after WWI and WWII, many Presidents would consistently use the term 'war' more on average after the conclusion of the wars compared to before the wars took place.
 *Many people around the world also play baseball.* **One of the ways that different countries around the world can showcase their skills is during the Wrold Baseball Classic.** [MLB Homepage](https://www.mlb.com/). 
 This is a list of the best Major League baseball players today
 
@@ -20,8 +20,7 @@ This is a list of the best Major League baseball players today
 
 ## Introduction
 
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
+War has always been a part of our history since we won our independence from Great Britain in 1776. While war has been rich in our history, it wasn't until the start of the 20th century that America would be forever changed by wartime. No one could have predicted how the events of WWI and WWII would impact America in the years to come. Ever since the conclusion of WWII, the political landscape of America has shifted to focus more on militaristic ideas and innovative ways that we can protect our country going forward. Wartime has also affected how Americans see its leaders and how it factors into their decisions on who should run the country. 
 
 Leave an empty line between headings and paragraphs.
 
@@ -31,11 +30,11 @@ Citing your work is important! [^1]
 
 Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
 
-# Heading One
+## Heading One
 
 ## Heading Two
 
-### Heading Three, etc.
+## Heading Three, etc.
 
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
