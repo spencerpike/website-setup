@@ -9,32 +9,27 @@ permalink: /essay-01.html
 # How Wartime Changed America's Political Landscape
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %} 
-This graph shows a very good demonstration of how often wartime was mentionded during State of the Union Addresses from 1900-2000.
-As you can see, after WWI and WWII, many Presidents would consistently use the term 'war' more on average after the conclusion of the wars compared to before the wars took place.
-*Many people around the world also play baseball.* **One of the ways that different countries around the world can showcase their skills is during the Wrold Baseball Classic.** [MLB Homepage](https://www.mlb.com/). 
-This is a list of the best Major League baseball players today
+This graph shows a very good demonstration of how often wartime was mentionded during State of the Union Addresses from 1900-2000. As you can see, after WWI and WWII, many Presidents would consistently use the term 'war' more on average after the conclusion of the wars compared to before the wars took place.
 
--Mike Trout
--Juan Soto
--Joey Votto
 
 ## Introduction
 
 War has always been a part of our history since we won our independence from Great Britain in 1776. While war has been rich in our history, it wasn't until the start of the 20th century that America would be forever changed by wartime. No one could have predicted how the events of WWI and WWII would impact America in the years to come. Ever since the conclusion of WWII, the political landscape of America has shifted to focus more on militaristic ideas and innovative ways that we can protect our country going forward. Wartime has also affected how Americans see its leaders and how it factors into their decisions on who should run the country. 
 
-Leave an empty line between headings and paragraphs.
 
-Font can be *Italic* or **Bold**.
+## The Great War
 
-Citing your work is important! [^1]
+The Great War, commonly referred to as WWI, lasted from 1914-1918. The most notable countries involved in this war were Germany, Austria-Hungary, France, Great Britain, and the United States. While the war started in 1914, the U.S. would not enter the war until 1917, amid finding out that Germany was encouraging Mexico to attack the U.S. At the time, the United States had mostly followed an isolationist political view when it came to our invovlemnt in other country's affairs. Even when the war had started, President Woodrow Wilson was reluctant to join the war, despite many Americans believing that we should intervene.  
 
-Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
+## Fallout from The Great War
 
-## Heading One
 
-## Heading Two
 
-## Heading Three, etc.
+## WWII
+
+
+
+## Life After WWII
 
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
