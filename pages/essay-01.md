@@ -1,6 +1,6 @@
 ---
-title: Essay 1
-layout: about
+title: How War Has Changed America's Political Landscape 
+layout: This essay will cover how wartime has changed the American political landscape over the course of the last two world wars.
 permalink: /essay-01.html
 ---
 
