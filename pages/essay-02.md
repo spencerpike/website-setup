@@ -11,6 +11,8 @@ permalink: /essay-02.html
 {% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %} 
 This graph shows a very good demonstration of how often wartime was mentionded during State of the Union Addresses from 1900-2000. As you can see, after WWI and WWII, many Presidents would consistently use the term 'war' more on average after the conclusion of the wars compared to before the wars took place.
 
+{% include feature/image.html filename="Riveter.jpg" alt="Wartime Propaganda" link="https://www.nationalww2museum.org/war/articles/wwii-propaganda" %}
+
 
 ## Introduction
 
