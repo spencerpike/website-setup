@@ -6,6 +6,8 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
+{% include feature/image.html filename="sotu-word-cloud.png" alt="State of the Union Word Cloud" %}
+
 # How Wartime Changed America's Political Landscape
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %} 
