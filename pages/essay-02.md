@@ -33,6 +33,8 @@ The Great War, commonly referred to as WWI, lasted from 1914-1918. The most nota
 
 ## Life After WWII
 
+{% include feature/line-chart.html data="sotu-20th-century" topic="America as world power" %}
+
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
 A bullet list is created using `*`, `+`, or `-`, like:
