@@ -11,7 +11,6 @@ permalink: /essay-02.html
 {% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %} 
 This graph shows a very good demonstration of how often wartime was mentionded during State of the Union Addresses from 1900-2000. As you can see, after WWI and WWII, many Presidents would consistently use the term 'war' more on average after the conclusion of the wars compared to before the wars took place.
 
-{% include feature/image.html filename="Riveter.jpg" alt="Wartime Propaganda" link="https://www.nationalww2museum.org/war/articles/wwii-propaganda" %}
 
 
 ## Introduction
@@ -45,13 +44,14 @@ The end of the second world war brought economic prosperity to America and to it
 
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="America as world power" %}
+This line chart shows how, following the end of WWII, President's began referring to America as a world superpower more often as compared to the before either of the world wars took place.
+
+
+{% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %} 
+This graph shows a very good demonstration of how often wartime was mentionded during State of the Union Addresses from 1900-2000. As you can see, after WWI and WWII, many Presidents would consistently use the term 'war' more on average after the conclusion of the wars compared to before the wars took place.
 
 
 
 ## Notes
 
-[^1]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
 
-Add sources.
-
-Include more multimedia.
